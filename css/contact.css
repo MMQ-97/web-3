@@ -1,0 +1,37 @@
+
+#F2{
+	width: 100%;
+	height: 627px;
+	margin-top: 30px;
+}
+#F2 span{
+	font-size: 24px;
+	margin-left: 60px;
+}
+form{
+	height: 490px;
+}
+.a4{
+	width: 335px;
+	height: 40px;
+	margin-left: 3px;
+}
+#F2 form p{
+	margin-top: 30px;
+	margin-left: 60px;
+}
+#F2 form p .a5{
+	height: 40px;
+	width: 690px;
+}
+#F2 form p .a6{
+	height: 100px;
+	width: 690px;
+}
+#F2 form p .a7{
+	height: 47px;
+	width: 131px;
+}
+input{
+	background-color: lightgrey;
+}

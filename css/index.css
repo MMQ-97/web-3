@@ -1,0 +1,117 @@
+.{
+	margin: 0;
+	padding: 0;
+}
+body{
+	width: 100%;
+	height: 2751px;
+}
+.One{
+	width: 100%;
+	height: 140px;
+}
+
+.One .a2 :first-child{
+	position: relative;
+	left: 620px;
+	top: -5px;
+	margin-left: -45px;
+}
+.One ul{
+	width: 90%;
+	height:50px;
+	position: relative;
+	top: 30px;
+	left: 3.5%;
+	list-style: none;
+	display: inline-block;
+}
+.Img{
+	width: 207px;
+	height: 46px;
+}
+.One ul li {
+	display: inline-block;
+	margin-left: 44px;
+	font-size: 30px;
+}
+.a1{
+	text-decoration: none;
+	position: relative;
+	top: -10px;
+	color: black;
+}
+.a2{
+	width: 30px;
+	height:30px;
+	color: black;
+}
+.a2:first-of-type{
+	background-image: url(../Work_Space/1.png);
+}
+#big{
+	width: 100%;
+	background-color: white;
+}
+#big #one{
+	width: 43%;
+	height: 850px;
+	margin-top: 60px;
+	display: inline-block;
+	}
+	#big #one:nth-child(1){
+	margin-left: 85px;
+}
+#big #one:nth-child(2){
+	margin-left: 35px;
+	
+}
+#big a img{
+	width: 650px;
+	height: 806px;
+}
+#one p{
+	margin-top: -15px;
+}
+
+#text{
+	width: 100%;
+	height: 230px;
+	margin-top: 150px;
+}
+#text p{
+	width: 962px;
+	height: 155px;
+	position: relative;
+	left: 10%;
+	top: 2%;
+	text-indent:2em;
+	word-wrap: break-word;
+    word-break: normal;
+	font-family: "宋体";
+	font-size: 24px;
+	align-items: center;
+}
+#text h2{
+	width: 128px;
+	height: 52px;
+	position: relative;
+	left: 10%;
+}
+#text hr{
+	background-color: gray;
+	width: 90px;
+	height: 1px;
+	position: relative;
+	top: -25px;
+	left: -36.5%;
+}
+#blo{
+	width: 100%;
+	height: 190px;
+}
+#blo .blob{
+	position: relative;
+	left: 10%;
+	top: 40%;
+}

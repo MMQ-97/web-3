@@ -1,0 +1,20 @@
+#f1{
+	width: 690px;
+	height: 910px;
+	margin-left: 100px;
+	margin-top: 40px;
+}
+span{
+	width: 690px;
+	height: 144px;
+	line-height: 50px;
+	font-size: 35px;
+}
+#f1 p{
+	margin-top: 25px;
+	line-height: 30px;
+}
+#f2 p{
+	margin-top: -5px;
+	line-height: 30px;
+}
